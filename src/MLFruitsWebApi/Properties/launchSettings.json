@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MLFruitsWebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:1381;http://localhost:1382"
+    }
+  }
+}
